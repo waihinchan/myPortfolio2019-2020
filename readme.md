@@ -10,3 +10,4 @@ https://github.com/waihinchan/myPortfolio2019-2021
 6. “浮士德”表演舞台效果(基于kinectV2点云+帧差追踪,把人和背景分离,部分性能受限于Kinect深度,视频为demo)[视频](https://vimeo.com/448307493) 因为该项目尚在筹备中,具体效果详见[链接](https://www.huodongxing.com/event/5570505793700)
 7. Monadot复现(基于openframework) [视频](https://vimeo.com/448299173)
 8. uxui部分 https://github.com/waihinchan/myPortfolio2019-2021/tree/master/UIUX_protfolio
+9. 其他作品见[视频](https://www.instagram.com/tv/B8yvDzcgJWs/?utm_source=ig_web_copy_link)
