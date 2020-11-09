@@ -2,7 +2,7 @@
 https://github.com/waihinchan/myPortfolio2019-2021
 
 项目列表:
-1. scar (进行中) 一个人工智能项目,用于预测作画过程.[github链接](https://github.com/waihinchan/scar )[视频](https://www.instagram.com/p/CGaxqnuBtrd/?igshid=109mbhe89ujlj)
+1. scar (进行中) 一个人工智能项目,用于预测作画过程.[github链接](https://github.com/waihinchan/scar ) [视频](https://www.instagram.com/p/CGaxqnuBtrd/?igshid=109mbhe89ujlj)
 2. 柏松采样复现(基于openframework)
 3. 柏林噪声复现(基于openframework) [视频](https://vimeo.com/448303520)
 4. 梵高星夜流动复现(基于openframework)[视频](https://www.instagram.com/p/B8IBWjzgxMy/?utm_source=ig_web_copy_link)
