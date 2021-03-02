@@ -11,6 +11,16 @@ U3D vfx漩涡效果: [链接](https://github.com/waihinchan/VFXSwrilEffect)
 
 U3D Kinect2动作识别(使用微软SDK简单封装) [链接](https://github.com/waihinchan/UnityKinectPoseDetect)
 
+
+U3D Kinect + 实时烘焙SDF + VFX简单实现 
+
+
+U3D 默认渲染管线失真+碎片重组效果 
+
+U3D VFX音乐可视化(进行中)
+
+
+
 其他作品:
 
 
@@ -28,7 +38,7 @@ Monadot复现(基于openframework) [视频](https://vimeo.com/448299173)
 
 UIUX原型交互部分见 https://github.com/waihinchan/myPortfolio2019-2021/tree/master/UIUX_protfolio
 
-
+柏松盘采样 [链接](https://github.com/waihinchan/learning/tree/master/OF%26processing/fast_poission_pan)
 
 柏林噪声复现(基于openframework) [视频](https://vimeo.com/448303520)
 
