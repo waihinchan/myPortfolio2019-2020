@@ -15,7 +15,7 @@ U3D vfx漩涡效果: [链接](https://github.com/waihinchan/VFXSwrilEffect) [视
 U3D Kinect2动作识别(使用微软SDK简单封装) [链接](https://github.com/waihinchan/UnityKinectPoseDetect)
 
 
-U3D voxelizer 在默认渲染管线上的实现: [链接]() [视频](https://vimeo.com/user92504253/review/520286190/a7a7ad41d0)
+U3D voxelizer 在默认渲染管线上的实现: [链接](https://github.com/waihinchan/voxelize_rebuild/tree/main/Voxelizer_Rebuild%20) [视频](https://vimeo.com/user92504253/review/520286190/a7a7ad41d0)
 
 ![https://github.com/waihinchan/project-list/blob/master/voxelizer.gif](https://github.com/waihinchan/project-list/blob/master/voxelizer.gif)
 
