@@ -3,7 +3,13 @@
 ML-Painting-Process-Predict,用于预测作画过程.[github链接](https://github.com/waihinchan/scar ) [视频](https://www.instagram.com/p/CGaxqnuBtrd/?igshid=109mbhe89ujlj)
 
 
-![https://github.com/waihinchan/ML-Painting-Process-Predict/blob/experient/result.gif](https://github.com/waihinchan/ML-Painting-Process-Predict/blob/experient/result.gif)
+![https://github.com/waihinchan/project-list/blob/master/clip1.gif](https://github.com/waihinchan/project-list/blob/master/clip1.gif)
+
+![https://github.com/waihinchan/project-list/blob/master/clip2.gif](https://github.com/waihinchan/project-list/blob/master/clip2.gif)
+
+![https://github.com/waihinchan/project-list/blob/master/clip3.gif](https://github.com/waihinchan/project-list/blob/master/clip3.gif)
+
+![https://github.com/waihinchan/project-list/blob/master/clip4.gif](https://github.com/waihinchan/project-list/blob/master/clip4.gif)
 
 
 U3D vfx漩涡效果: [链接](https://github.com/waihinchan/VFXSwrilEffect) [视频](https://vimeo.com/520239095)
