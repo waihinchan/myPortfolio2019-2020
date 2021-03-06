@@ -11,13 +11,21 @@ U3D vfx漩涡效果: [链接](https://github.com/waihinchan/VFXSwrilEffect) [视
 
 ![https://github.com/waihinchan/project-list/blob/master/swirl.gif](https://github.com/waihinchan/project-list/blob/master/swirl.gif)
 
+
 U3D Kinect2动作识别(使用微软SDK简单封装) [链接](https://github.com/waihinchan/UnityKinectPoseDetect)
+
+
+U3D voxelizer 在默认渲染管线上的实现: [链接]() [视频](https://vimeo.com/user92504253/review/520286190/a7a7ad41d0)
+
+![https://github.com/waihinchan/project-list/blob/master/voxelizer.gif](https://github.com/waihinchan/project-list/blob/master/voxelizer.gif)
+
 
 
 U3D Kinect + 实时烘焙SDF + VFX简单实现 
 
 
 U3D 默认渲染管线失真+碎片重组效果 
+
 
 U3D VFX音乐可视化(进行中)
 
