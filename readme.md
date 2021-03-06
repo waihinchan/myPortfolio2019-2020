@@ -15,7 +15,7 @@ ML-Painting-Process-Predict,用于预测作画过程.[github链接](https://gith
 U3D vfx漩涡效果: [链接](https://github.com/waihinchan/VFXSwrilEffect) [视频](https://vimeo.com/520239095)
 
 
-![https://imgtu.com/i/6u0JXj](https://imgtu.com/i/6u0JXj)
+![https://s3.ax1x.com/2021/03/06/6u0GcQ.gif](https://s3.ax1x.com/2021/03/06/6u0GcQ.gif)
 
 
 U3D Kinect2动作识别(使用微软SDK简单封装) [链接](https://github.com/waihinchan/UnityKinectPoseDetect)
