@@ -1,18 +1,12 @@
 
 项目列表:
-ML-Painting-Process-Predict,用于预测作画过程.[github链接](https://github.com/waihinchan/scar ) [视频](https://www.instagram.com/p/CGaxqnuBtrd/?igshid=109mbhe89ujlj)
+ML-Painting-Process-Predict,用于预测作画过程.[github链接](https://github.com/waihinchan/ML-Painting-Process-Predict) [视频](https://www.instagram.com/p/CGaxqnuBtrd/?igshid=109mbhe89ujlj)
 
 
-![https://s3.ax1x.com/2021/03/06/6u0lh8.gif](https://s3.ax1x.com/2021/03/06/6u0lh8.gif)
-
-
-[!https://s3.ax1x.com/2021/03/06/6u0Qtf.gif](https://s3.ax1x.com/2021/03/06/6u0Qtf.gif)
-
-
-![https://s3.ax1x.com/2021/03/06/6u0MAP.gif](https://s3.ax1x.com/2021/03/06/6u0MAP.gif)
-
-
-![https://s3.ax1x.com/2021/03/06/6u0u7t.gif](https://s3.ax1x.com/2021/03/06/6u0u7t.gif)
+![https://github.com/waihinchan/project-list/blob/master/clip1.gif](https://github.com/waihinchan/project-list/blob/master/clip1.gif)
+![https://github.com/waihinchan/project-list/blob/master/clip2.gif](https://github.com/waihinchan/project-list/blob/master/clip2.gif)
+![https://github.com/waihinchan/project-list/blob/master/clip3.gif](https://github.com/waihinchan/project-list/blob/master/clip3.gif)
+![https://github.com/waihinchan/project-list/blob/master/clip4.gif](https://github.com/waihinchan/project-list/blob/master/clip4.gif)
 
 
 
