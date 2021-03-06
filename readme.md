@@ -39,6 +39,9 @@ U3D VFX音乐可视化(进行中)
 
 其他作品:
 
+像素动画:
+
+![https://github.com/waihinchan/project-list/blob/master/pixel.gif](https://github.com/waihinchan/project-list/blob/master/pixel.gif)
 
 
 基于kinectV2+帧差追踪 ,部分性能受限于Kinect深度,视频为demo)[视频](https://vimeo.com/448307493) [项目链接](https://www.huodongxing.com/event/5570505793700)
