@@ -1,3 +1,5 @@
+GIF加载请耐心等待..
+
 
 项目列表:
 ML-Painting-Process-Predict,用于预测作画过程.[github链接](https://github.com/waihinchan/ML-Painting-Process-Predict) [视频](https://www.instagram.com/p/CGaxqnuBtrd/?igshid=109mbhe89ujlj)
