@@ -25,8 +25,7 @@ U3D voxelizer 在默认渲染管线上的实现: [链接](https://github.com/wai
 
 ![https://s3.ax1x.com/2021/03/06/6u0n0I.gif](https://s3.ax1x.com/2021/03/06/6u0n0I.gif)
 
-<iframe src="https://player.vimeo.com/video/523129009" width="640" height="344" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/523129009">Voxelizer_Rebuild - lit version</a> from <a href="https://vimeo.com/user92504253">wai hin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe height=498 width=510 src="https://vimeo.com/user92504253">
 
 U3D Kinect + 实时烘焙SDF + VFX简单实现 
 
