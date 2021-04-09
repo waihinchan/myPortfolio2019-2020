@@ -40,6 +40,8 @@ U3D VFX音乐可视化(进行中)
 
 其他作品:
 
+一些材质练习：[链接](https://github.com/waihinchan/Materialpractice) 
+
 像素动画: [链接](https://openprocessing.org/sketch/1054297)
 
 ![https://s3.ax1x.com/2021/03/06/6u0mnA.gif](https://s3.ax1x.com/2021/03/06/6u0mnA.gif)
