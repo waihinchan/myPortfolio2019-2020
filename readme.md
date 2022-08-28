@@ -21,7 +21,7 @@
 
 ![Untitled](%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8%E8%AE%B0%E5%BD%95/Untitled%201.png)
 
-![Untitled](%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8%E8%AE%B0%E5%BD%951/Untitled.jpeg)
+![Untitled](%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8%E8%AE%B0%E5%BD%95/Untitled.jpeg)
 
 ### 波浪
 
